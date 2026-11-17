@@ -1,8 +1,8 @@
 
-<p align="center">
-  <img src="Data%20Meets%20Psychology_Jesulayomi%20Taiwo-2.png" width="100%" alt="Data Meets Psychology - Jesulayomi Taiwo-2" />
-</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lily-16-ui/Lily-16-ui/main/Data%20Meets%20Psychology_%20Jesulayomi%20Taiwo-2.png" width="100%" alt="Data Meets Psychology - Jesulayomi Taiwo" />
+</p>
 
 <h1 align="center">Hi, I'm Jesulayomi 👋</h1>
 
