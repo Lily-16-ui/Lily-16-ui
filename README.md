@@ -88,32 +88,32 @@
     <th>Tools & Technologies</th>
   </tr>
   <tr>
-    <td><b>Zion Tech Hub</b></td>
+    <td><a href="https://github.com/Lily-16-ui/ZION-TECH-HUB-DATA-CHALLENGE"><b>Zion Tech Hub</b></a></td>
     <td>Healthcare Analytics</td>
     <td>Excel, SQL, Python, Tableau</td>
   </tr>
   <tr>
-    <td><b>Codveda Internship</b></td>
+    <td><a href="https://github.com/Lily-16-ui/CODVEDA-INTERNSHIP"><b>Codveda Internship</b></a></td>
     <td>Data Analysis & Visualisation</td>
     <td>Excel, Python, Power BI, Tableau</td>
   </tr>
   <tr>
-    <td><b>Bloom & Thrive Wellness Co.</b></td>
+    <td><a href="https://github.com/Lily-16-ui/Bloom-Thrive-Wellness-Co."><b>Bloom & Thrive Wellness Co.</b></a></td>
     <td>Business Analytics</td>
     <td>Excel, SQL</td>
   </tr>
   <tr>
-    <td><b>Healthcare Data Cleaning</b></td>
-    <td>Healthcare Data Preparation</td>
-    <td>Python, Pandas</td>
+    <td><a href="https://github.com/Lily-16-ui/SQL-DATA-CLEANING-PROJECT-"><b>SQL Data Cleaning Project</b></a></td>
+    <td>Data Cleaning & Preparation</td>
+    <td>SQL</td>
   </tr>
   <tr>
-    <td><b>SQL Orders Project</b></td>
+    <td><a href="https://github.com/Lily-16-ui/SQL_ORDERS_PROJECT"><b>SQL Orders Project</b></a></td>
     <td>Sales Data Analysis</td>
     <td>SQL</td>
   </tr>
   <tr>
-    <td><b>Company Sales Analysis</b></td>
+    <td><a href="https://github.com/Lily-16-ui/COMPANY-SALES-DATASET-"><b>Company Sales Analysis</b></a></td>
     <td>Business & Sales Analytics</td>
     <td>Excel, SQL</td>
   </tr>
