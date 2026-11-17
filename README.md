@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="github-banner.png" width="100%" alt="Data Meets Psychology_Jesulayomi Taiwo-2" />
+  <img src="Data%20Meets%20Psychology_Jesulayomi%20Taiwo-2.png" width="100%" alt="Data Meets Psychology - Jesulayomi Taiwo" />
 </p>
+
 
 <h1 align="center">Hi, I'm Jesulayomi 👋</h1>
 
