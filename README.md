@@ -150,9 +150,9 @@
   <a href="https://www.linkedin.com/in/jesulayomi-taiwo-045178253/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:taiwojesulayomi95@gmail.com?subject=Professional%20Enquiry">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-1E40AF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=taiwojesulayomi95@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-1E40AF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
   <a href="https://github.com/Lily-16-ui">
     <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
