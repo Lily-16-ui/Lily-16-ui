@@ -5,10 +5,10 @@
 
 <h1 align="center">Hi, I'm Jesulayomi 👋</h1>
 
-<h3 align="center">Data Analyst | Psychology Student</h3>
+<h3 align="center">Psychology Student | Data Analyst | Photographer</h3>
 
 <p align="center">
-  Turning data into insights that help us understand people, solve problems, and make better decisions.
+  Exploring the intersection of psychology and data to uncover insights, understand people, and solve real-world problems.
 </p>
 
 <h2 align="center">👩‍💻 About Me</h2>
