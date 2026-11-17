@@ -65,11 +65,12 @@ A selection of my data analytics projects, showcasing my experience in data clea
 
 🔗 Explore more projects in my [GitHub repositories](https://github.com/Lily-16-ui?tab=repositories).
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lily-16-ui&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lily-16-ui&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="profile/stats.svg" height="165" alt="GitHub Statistics" />
+  <img src="profile/top-langs.svg" height="165" alt="Top Languages" />
 </p>
 
 ## 🤝 Let's Connect
