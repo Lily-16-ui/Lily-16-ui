@@ -11,6 +11,28 @@
   Exploring the intersection of psychology and data to uncover insights, understand people, and solve real-world problems.
 </p>
 
+<!-- Data Analytics Tools -->
+<p align="center">
+<img src="https://cdn.simpleicons.org/python/3776AB" height="38" alt="Python" />
+&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="38" alt="Microsoft SQL Server" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/sempostma/office365-icons@master/svg/excel.svg" height="38" alt="Microsoft Excel" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" height="38" alt="Power BI" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" height="38" alt="Tableau" />
+</p>
+
+<!-- AI Tools -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" height="34" alt="OpenAI / ChatGPT" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" height="34" alt="Claude" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gemini/default.svg" height="34" alt="Google Gemini" />
+</p>
+
 <h2 align="center">👩‍💻 About Me</h2>
 
 <p align="center">
