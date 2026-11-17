@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Data%20Meets%20Psychology_Jesulayomi%20Taiwo-2.png" width="100%" alt="Data Meets Psychology - Jesulayomi Taiwo" />
+  <img src="Data%20Meets%20Psychology_Jesulayomi%20Taiwo-2.png" width="100%" alt="Data Meets Psychology - Jesulayomi Taiwo-2" />
 </p>
 
 
